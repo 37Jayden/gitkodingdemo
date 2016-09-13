@@ -1,2 +1,1 @@
-git init
-codingke JaydenKey
+codingke Jayden
